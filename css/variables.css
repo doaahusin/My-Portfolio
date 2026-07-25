@@ -1,0 +1,29 @@
+:root {
+  /* Colors */
+
+  --bg-color: #090612;
+
+  --card-color: #11101d;
+
+  --primary-color: #8b5cf6;
+
+  --secondary-color: #c026d3;
+
+  --text-color: #ffffff;
+
+  --paragraph-color: #b8b8c0;
+
+  --border-color: #2a2540;
+
+  /* Font */
+
+  --main-font: "Poppins", sans-serif;
+
+  /* Radius */
+
+  --radius: 16px;
+
+  /* Transition */
+
+  --transition: 0.3s ease;
+}
