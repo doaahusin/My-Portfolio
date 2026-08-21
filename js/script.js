@@ -18,6 +18,22 @@ const projects = [
     live: "https://github.com/doaahusin/Crumb",
     github: "https://byte-kp10vmv15-1230-ee9c.vercel.app/",
   },
+
+  {
+    title: "Coffee",
+    image: "images/coffeebeans.png",
+    alt: "Coffee project preview",
+    tags: ["HTML", "CSS"],
+    description:
+      "A modern bakery and coffee shop website featuring an elegant UI.",
+    status: "completed",
+    statusClass: "completed",
+    statusIcon: "fa-solid fa-circle-check",
+    source: "SEF Training Project",
+    live: "https://doaahusin.github.io/Coffee/",
+    github: "https://byte-kp10vmv15-1230-ee9c.vercel.app/",
+  },
+
   {
     title: "Leon – Creative Web Template",
     image: "images/Leon.png",
