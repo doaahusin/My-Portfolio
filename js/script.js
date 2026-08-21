@@ -6,7 +6,7 @@
 const projects = [
   {
     title: "Leon – Creative Web Template",
-    image: "images/first-project-template.png",
+    image: "images/Leon.png",
     alt: "First Project Template project preview",
     tags: ["HTML", "CSS"],
     description:
