@@ -5,6 +5,20 @@
 
 const projects = [
   {
+    title: "Leon – Creative Web Template",
+    image: "images/first-project-template.png",
+    alt: "First Project Template project preview",
+    tags: ["HTML", "CSS"],
+    description:
+      "A clean and minimalist web template built with HTML & CSS and elegant visual design",
+    status: "Completed",
+    statusClass: "completed",
+    statusIcon: "fa-solid fa-circle-check",
+    source: "ُElzero Web School",
+    live: "https://doaahusin.github.io/HTML_And_CSS_Template_One/",
+    github: "https://github.com/doaahusin/HTML_And_CSS_Template_One",
+  },
+  {
     title: "Natural Products",
     image: "images/natural-products.png",
     alt: "Natural Products project preview",
@@ -76,7 +90,7 @@ const projects = [
   },
   {
     title: "DoIt-ToDoList",
-    image: "images/doit-todolist.png",
+    image: "images/Doit-ToDoList.png",
     alt: "DoIt-ToDoList project preview",
     tags: ["HTML", "CSS", "JavaScript"],
     description:
