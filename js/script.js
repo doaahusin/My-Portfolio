@@ -90,7 +90,7 @@ const projects = [
   },
   {
     title: "DoIt-ToDoList",
-    image: "images/Dolt-ToDoList.png",
+    image: "images/ToDoList.png",
     alt: "DoIt-ToDoList project preview",
     tags: ["HTML", "CSS", "JavaScript"],
     description:
