@@ -5,6 +5,20 @@
 
 const projects = [
   {
+    title: "Crumb",
+    image: "images/crumb.png",
+    alt: "Crumb project preview",
+    tags: ["HTML", "CSS", "JavaScript"],
+    description:
+      "A modern and responsive bakery and coffee shop website featuring an elegant UI.",
+    status: "completed",
+    statusClass: "completed",
+    statusIcon: "fa-solid fa-circle-check",
+    source: "SEF Training Project",
+    live: "https://github.com/doaahusin/Crumb",
+    github: "https://byte-kp10vmv15-1230-ee9c.vercel.app/",
+  },
+  {
     title: "Leon – Creative Web Template",
     image: "images/Leon.png",
     alt: "First Project Template project preview",
@@ -74,20 +88,7 @@ const projects = [
     live: "https://doaahusin.github.io/SEF-TechNove/",
     github: "https://github.com/doaahusin/SEF-TechNove",
   },
-  {
-    title: "Crumb",
-    image: "images/crumb.png",
-    alt: "Crumb project preview",
-    tags: ["HTML", "CSS", "JavaScript"],
-    description:
-      "A modern and responsive bakery and coffee shop website featuring an elegant UI.",
-    status: "completed",
-    statusClass: "completed",
-    statusIcon: "fa-solid fa-circle-check",
-    source: "SEF Training Project",
-    live: "https://github.com/doaahusin/Crumb",
-    github: "https://byte-kp10vmv15-1230-ee9c.vercel.app/",
-  },
+
   {
     title: "DoIt-ToDoList",
     image: "images/Dolt-ToDoList.png",
